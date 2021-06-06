@@ -10,4 +10,4 @@ hello simple! hello git!
 hello simple! hello git!
 hello mylove
 hello mylove master test
-hello mylove
+hello mylove hot-fix test
