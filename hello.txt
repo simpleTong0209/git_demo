@@ -9,6 +9,5 @@ hello simple! hello git!
 hello simple! hello git!
 hello simple! hello git!
 hello mylove
-<M-S-Insert
 hello mylove
 hello mylove
